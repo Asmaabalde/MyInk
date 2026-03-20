@@ -98,4 +98,3 @@ Le projet avait pour objectifs :
 ## 🚀 Avancement
 
 Le projet est **terminé** et fonctionnel.  
-Le code source, les ressources et la documentation seront ajoutés au dépôt.
